@@ -90,10 +90,4 @@ python main.py
 
 ---
 
-### Hak Cipta & Lisensi
 
-Proyek ini dikembangkan secara spesifik untuk memenuhi persyaratan Ujian Akhir Semester Mata Kuliah Pengolahan Citra Digital Tahun Ajaran 2025/2026.
-
-```
-
-```
